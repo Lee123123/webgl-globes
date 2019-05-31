@@ -1,1 +1,1 @@
-{"type":"Topology","transform":{"scale":[0.03600360036003601,0.017366249624962495],"translate":[-180,-90]},"objects":{"countries":{"type":"GeometryCollection","geometries":[]}
+{"type":"Topology","transform":{"scale":[0.03600360036003601,0.017366249624962495],"translate":[-180,-90]},"objects":{"countries":{"type":"GeometryCollection","geometries":[{"type":"Polygon","arcs":[[585]],"id":"Taiwan"}]}
